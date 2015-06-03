@@ -1,5 +1,5 @@
 ===Ebook Downloader===
-Contributors: (rayan)
+Contributors: (infoway)
 Tags: ebook
 Requires at least: 3.0.1
 Tested up to: 3.9
